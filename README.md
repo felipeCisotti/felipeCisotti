@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Felipe and I'm a full-stack developer, from Monte Alto</h2>
+<h2 align="left">Hi 👋 <br>! My name is Felipe and I'm a full-stack developer, from Monte Alto</h2>
 
 ###
 
